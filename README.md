@@ -30,6 +30,16 @@ cd yolo/v8/detect
 5. Copy the Deep Sort PyTorch Folder
 Ensure the deep_sort_pytorch folder is placed inside the yolo/v8/detect directory.
 
+5. Copy the ckpt.t7 File
+Ensure the ckpt.t7 File is placed inside the \YOLOv8-Object-Detection-with-DeepSORT-Tracking\deep_sort_pytorch\deep_sort\deep\checkpoint directory.
+
+
+5. Copy the ckpt.t7 File
+Ensure the ckpt.t7 File is placed inside the \YOLOv8-Object-Detection-with-DeepSORT-Tracking\yolo\v8\detect\deep_sort_pytorch\deep_sort\deep\checkpoint
+
+5. Copy the yolov8l.pt File
+Ensure the yolov8l.pt File  is placed inside the YOLOv8-Object-Detection-with-DeepSORT-Tracking\yolo\v8\detect directory.
+
 6. Run the Tracking Script
 Execute the following command to start tracking:
 
