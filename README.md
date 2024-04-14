@@ -66,8 +66,7 @@ python tracking_vehicle_counting.py model=yolov8l.pt source="test.mp4" show=True
 
 Demo:
 Vechile detection
-![Results](https://github.com/akash7ashy/Trafficoptimizer/assets/131885338/0198bc8d-9602-42f9-9eef-14fe96987441)
-
+![Results](https://github.com/akash7ashy/Trafficoptimizer/assets/131885338/6c6fb62f-fa4e-4ad7-bd20-f75fbb27c066)
 
 
 
