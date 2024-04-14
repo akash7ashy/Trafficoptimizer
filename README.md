@@ -1,10 +1,12 @@
 # Trafficoptimizer
 # YOLOv8 Object Detection with DeepSORT Tracking
 Traffic Signal Timer
+![traffic-signal](https://github.com/akash7ashy/Trafficoptimizer/assets/131885338/50c8748a-28c1-4ea0-962a-4cee387a5431)
 
-Adaptive Traffic Signal Timer
 
-This Adaptive Traffic Signal Timer uses live images from the cameras at traffic junctions for traffic density calculation using YOLO object detection and sets the signal timers accordingly, thus reducing the traffic congestion on roads, providing faster transit to people, and reducing fuel consumption.
+Trafficoptimizer
+
+This Trafficoptimizer uses live images from the cameras at traffic junctions for traffic density calculation using YOLO object detection and sets the signal timers accordingly, thus reducing the traffic congestion on roads, providing faster transit to people, and reducing fuel consumption.
 Inspiration
 Traffic congestion is becoming one of the critical issues with the increasing population and automobiles in cities. Traffic jams not only cause extra delay and stress for the drivers but also increase fuel consumption and air pollution.
 
