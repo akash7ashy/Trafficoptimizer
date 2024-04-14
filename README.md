@@ -59,4 +59,10 @@ Execute the following command to start tracking:
 
 python tracking_vehicle_counting.py model=yolov8l.pt source="test.mp4" show=True
 
+Demo:
+Vechile detection
+![Results](https://github.com/akash7ashy/Trafficoptimizer/assets/131885338/3553171b-2041-4831-a431-ccac0c10f1f2)
+
+
+
 
