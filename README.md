@@ -4,6 +4,8 @@ Traffic Signal Timer
 ![traffic-signal](https://github.com/akash7ashy/Trafficoptimizer/assets/131885338/50c8748a-28c1-4ea0-962a-4cee387a5431)
 
 
+
+
 Trafficoptimizer
 
 This Trafficoptimizer uses live images from the cameras at traffic junctions for traffic density calculation using YOLO object detection and sets the signal timers accordingly, thus reducing the traffic congestion on roads, providing faster transit to people, and reducing fuel consumption.
