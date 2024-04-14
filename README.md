@@ -54,8 +54,13 @@ Ensure the ckpt.t7 File is placed inside the \YOLOv8-Object-Detection-with-DeepS
 7. Copy the yolov8l.pt File
 Ensure the yolov8l.pt File  is placed inside the YOLOv8-Object-Detection-with-DeepSORT-Tracking\yolo\v8\detect directory.
 
+
 8. Run the Tracking Script
 Execute the following command to start tracking:
+
+9.Access the files in the following link:
+https://drive.google.com/drive/folders/1pcxLWCwRGOZV6qj9LWs3p9SV7QowTAOU?usp=drive_link
+
 
 python tracking_vehicle_counting.py model=yolov8l.pt source="test.mp4" show=True
 
